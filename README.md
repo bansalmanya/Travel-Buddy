@@ -1,0 +1,2 @@
+# Travel-Buddy
+A BLOGGING PLATFORM
